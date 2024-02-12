@@ -13,10 +13,10 @@
 
 <h2>Screenshots of the Project 📸</h2>
 <br>
-<h3 align='center'>Home Page 🏡</h3>
-
 <div align='center'>
-<img src='https://github.com/manepradnya/car-rental/assets/40739047/fc5939db-4f7f-4c7d-87ae-87a3adaca7c0
-'/>
-
+![image](https://github.com/manepradnya/car-rental/assets/40739047/0a750487-24aa-46cd-9a1c-71005053235e)
+![image](https://github.com/manepradnya/car-rental/assets/40739047/783a8a55-bc5b-47b8-a71d-a12e3d486fbd)
+![image](https://github.com/manepradnya/car-rental/assets/40739047/e21ecbbf-352c-4720-8026-0b766fe3929a)
+![image](https://github.com/manepradnya/car-rental/assets/40739047/960defa4-b4b5-430b-abd7-eb36dc33fe9f)
+![image](https://github.com/manepradnya/car-rental/assets/40739047/bca04dbf-213f-4979-89aa-1902d774a432)
 </div>
