@@ -16,7 +16,7 @@
 <h3 align='center'>Home Page 🏡</h3>
 
 <div align='center'>
-<img src='![image](https://github.com/manepradnya/car-rental/assets/40739047/fc5939db-4f7f-4c7d-87ae-87a3adaca7c0)
+<img src='!https://github.com/manepradnya/car-rental/assets/40739047/fc5939db-4f7f-4c7d-87ae-87a3adaca7c0
 '/>
 
 </div>
