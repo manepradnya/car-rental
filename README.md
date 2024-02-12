@@ -14,7 +14,8 @@
 <h2>Screenshots of the Project 📸</h2>
 <br>
 <div align='center'>
-![image](https://github.com/manepradnya/car-rental/assets/40739047/0a750487-24aa-46cd-9a1c-71005053235e)
+
+![image](https://github.com/manepradnya/car-rental/assets/40739047/a8b50b85-c62b-4305-8549-7ac07166816c)
 
 ![image](https://github.com/manepradnya/car-rental/assets/40739047/783a8a55-bc5b-47b8-a71d-a12e3d486fbd)
 
