@@ -1,4 +1,4 @@
-#Car Rental
+<h1>Car Rental</h1>
 
 <h2>About the project</h2>
 
